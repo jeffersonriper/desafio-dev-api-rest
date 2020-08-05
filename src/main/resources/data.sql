@@ -1,0 +1,1 @@
+insert into TB_PESSOA(NOME, CPF, DT_NASC) VALUES('Priscila A. Moraes Rocha', '359.929.498-44','1988-01-15');
